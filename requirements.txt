@@ -1,0 +1,14 @@
+fastapi==0.89.1
+pydantic==1.10.4
+uvicorn==0.20.0
+SQLAlchemy==1.4.46
+psycopg2==2.9.5
+sqlalchemy[asyncio]
+databases
+databases[asyncpg]
+databases[aiopg]
+databases[aiomysql]
+databases[asyncmy]
+databases[aiosqlite]
+httpx
+websockets
